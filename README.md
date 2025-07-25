@@ -11,6 +11,7 @@ Este é o meu portfólio pessoal como Desenvolvedor Web Front-End. A página apr
 - HTML5
 - CSS3
 - JavaScript
+- Figma
 - Font Awesome (ícones)
 
 ## ✨ Funcionalidades
@@ -22,15 +23,3 @@ Este é o meu portfólio pessoal como Desenvolvedor Web Front-End. A página apr
 - ✅ Ícones para redes sociais (Instagram, LinkedIn)
 - ✅ Alternância entre modo claro e escuro
 - ✅ Layout responsivo
-
-## 📁 Estrutura de pastas
-
-```bash
-📦meu-portfolio
- ┣ 📁assets/
- ┃ ┗ 📄foto.png          # Imagem de perfil
- ┣ 📄index.html          # Página principal
- ┣ 📄style.css           # Estilos da aplicação
- ┣ 📄script.js           # Código JavaScript para dark/light mode
- ┗ 📄README.md           # Este arquivo
-```
